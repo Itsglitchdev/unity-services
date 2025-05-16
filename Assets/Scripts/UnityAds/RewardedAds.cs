@@ -7,7 +7,7 @@ public class RewardedAds : MonoBehaviour, IUnityAdsLoadListener, IUnityAdsShowLi
     [SerializeField] string _iOSAdId;
     
     // Reference to GameManager to call reward method
-    private GameManager gameManager;
+    private UnityAdGameManager gameManager;
 
     private string _adId;
 
@@ -20,7 +20,7 @@ public class RewardedAds : MonoBehaviour, IUnityAdsLoadListener, IUnityAdsShowLi
 #endif
         
         // Get reference to GameManager
-        gameManager = FindFirstObjectByType<GameManager>();
+        gameManager = FindFirstObjectByType<UnityAdGameManager>();
         if (gameManager == null)
         {
             Debug.LogError("GameManager not found!");

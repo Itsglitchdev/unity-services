@@ -239,7 +239,7 @@ GameObject:
   - component: {fileID: 238106416}
   - component: {fileID: 238106415}
   m_Layer: 0
-  m_Name: GameManager
+  m_Name: UnityAdGameManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

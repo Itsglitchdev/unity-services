@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-public class GameManager : MonoBehaviour
+public class UnityAdGameManager : MonoBehaviour
 {
 
     [Header("UI Reference")]
