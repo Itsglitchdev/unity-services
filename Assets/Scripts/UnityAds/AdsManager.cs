@@ -3,7 +3,7 @@ using UnityEngine;
 public class AdsManager : MonoBehaviour
 {
     public AdsInitializer adsInitializer;
-    public InterstitialAd interstitialAd;
+    public InterstitialAdd interstitialAd;
     public RewardedAds rewardedAds;
     public BannerAd bannerAd;
 

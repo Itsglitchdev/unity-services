@@ -1,6 +1,6 @@
 using UnityEngine;
 using UnityEngine.Advertisements;
-public class InterstitialAd : MonoBehaviour, IUnityAdsLoadListener, IUnityAdsShowListener
+public class InterstitialAdd : MonoBehaviour, IUnityAdsLoadListener, IUnityAdsShowListener
 {
 
     [SerializeField] string _androidAdId;

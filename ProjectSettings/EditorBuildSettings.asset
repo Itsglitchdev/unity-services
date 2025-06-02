@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/UnityMobileNotification(Native).unity
-    guid: 6e2256f2e144e164b97c26f2d046c701
+    path: Assets/Scenes/GoogleMobAds.unity
+    guid: 96e59e5dc996be24bbfcd4783f39cb42
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
   m_UseUCBPForAssetBundles: 0
