@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "281487369584",
+    "project_id": "unity-cloud-notification",
+    "storage_bucket": "unity-cloud-notification.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281487369584:android:fde854b9bb1a009c561bb5",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Git_FirebasePushNotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAbdRoNue_OXZKZEtC9Wbd2AfC5uw5uw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281487369584:android:629cbde8d2f33685561bb5",
+        "android_client_info": {
+          "package_name": "com.glitchdev.UnityServices"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAbdRoNue_OXZKZEtC9Wbd2AfC5uw5uw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
