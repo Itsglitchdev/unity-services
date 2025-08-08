@@ -54,7 +54,7 @@ Each service is organized with its own scene demonstrating:
 Found an issue or have suggestions? Feel free to:
 - Open an issue
 - Submit a pull request
-- Reach out on Twitter [@SauravKosti](https://x.com/SauravKosti)
+- Reach out on Linkedin [@SauravKosti](www.linkedin.com/in/saurav-kosti-2031a1220)
 
 ## 📄 License
 
