@@ -62,7 +62,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**GlitchDev** - [@SauravKosti](https://x.com/SauravKosti)
+**GlitchDev** - [@SauravKosti](www.linkedin.com/in/saurav-kosti-2031a1220)
 
 ---
 
